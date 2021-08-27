@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=justcabyr)
 
-### I am a Software over-stack Engineer
+### I am a Professional Backend Engineer
 
 - 🔭 I currently work as a Technical Support Engineer at [OPay](https://opayweb.com/)
 
