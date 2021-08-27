@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br/>
-
-- I am a professional Software Engineer with over 4 years of experience in Software, Product and Website Development with Node.js, GraphQL, Laravel, JavaScript and Php. I have knowledge of Docker, Algorithms, Git, AWS, creating & consuming APIs, Linux, Data analysis (MySQL, Excel).
+- I am a professional Software Engineer with over 4 years of experience in Software, Product and Website Development with Node.js, GraphQL, Laravel, JavaScript and Php. I have knowledge of Docker, Algorithms, Git, AWS, creating & consuming APIs, Linux, Data analysis (DBs & Excel).
 
 - I am also an Innovative and award-winning Community Management Professional with multiple skills and experience across customer and technical support, program management and communications (writing, speaking, presentation).
 
@@ -26,21 +24,17 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=justcabyr)
 
-<br/>
-
 ### I am a Software over-stack Engineer
 
 - 🔭 I currently work as a Technical Support Engineer at [OPay](https://opayweb.com/)
 
-<br/>
-<br/>
 
 ### Previous Experiences
 - Software Engineer [Cyberfleet Integrated Limited](https://cyberfleetng.com/)
 - Community Manager [TechQuest STEM Academy](https://tqstem.org/)
+- Community Executive [TechQuest STEM Academy](https://tqstem.org/)
+- Customer Support Engineer [Crossover](https://www.crossover.com/)
 
-<br/>
-<br/>
 
 ### Connect with me:
 
