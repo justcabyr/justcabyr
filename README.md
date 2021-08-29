@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 ### Previous Experiences
 - Software Engineer [Cyberfleet Integrated Limited](https://cyberfleetng.com/)
 - Community Manager [TechQuest STEM Academy](https://tqstem.org/)
-- Community Executive [TechQuest STEM Academy](https://tqstem.org/)
 - Customer Support Engineer [Crossover](https://www.crossover.com/)
 
 
