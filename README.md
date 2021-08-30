@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 
 ### Previous Experiences
-- Software Engineer [Cyberfleet Integrated Limited](https://cyberfleetng.com/)
-- Community Manager [TechQuest STEM Academy](https://tqstem.org/)
-- Customer Support Engineer [Crossover](https://www.crossover.com/)
+- Software Engineer at [Cyberfleet Integrated Limited](https://cyberfleetng.com/)
+- Community Manager at [TechQuest STEM Academy](https://tqstem.org/)
+- Customer Support at Engineer [Crossover](https://www.crossover.com/)
 
 
 ### Connect with me:
