@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I am a professional Software Engineer with over 4 years of experience in Software, Product and Website Development with Node.js, GraphQL, Laravel, JavaScript and Php. I have knowledge of Docker, Algorithms, Git, AWS, creating & consuming APIs, Linux, Data analysis (DBs & Excel).
+- I am a professional Software Engineer with over 4 years of experience in Software, Product and Website Development with Node.js, GraphQL, Laravel, JavaScript and Php. I have knowledge of Docker, Algorithms, Git, AWS, APIs, Linux, DBs (relational and non-relational).
 
 - I am also an Innovative and award-winning Community Management Professional with multiple skills and experience across customer and technical support, program management and communications (writing, speaking, presentation).
 
@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ### I am a Professional Backend Engineer
 
 - 🔭 I currently work as a Technical Support Engineer at [OPay](https://opayweb.com/)
+- 👷🏾‍♀️ I am also a Community Growth Associate at [Consonance Club](http://consonance.club/)
 
 
 ### Previous Experiences
