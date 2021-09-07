@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=justcabyr)
 
-### I am a Professional Backend Engineer
+### I am a Professional Software Engineer
 
 - 🔭 I currently work as a Technical Support Engineer at [OPay](https://opayweb.com/)
 - 👷🏾‍♀️ I am also a Community Growth Associate at [Consonance Club](http://consonance.club/)
