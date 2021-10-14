@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ### Previous Experiences
 - Software Engineer at [Cyberfleet Integrated Limited](https://cyberfleetng.com/)
 - Community Manager at [TechQuest STEM Academy](https://tqstem.org/)
-- Customer Support at Engineer [Crossover](https://www.crossover.com/)
+- Director Web Services at [Dervac Technologies](http://dervac.com/)
 
 
 ### Connect with me:
