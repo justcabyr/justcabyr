@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I am a professional Software Engineer with over 4 years of experience in Software, Product and Website Development with PHP, Laravel, JavaScript, Node.js, GraphQL, Linux, and Docker. I have knowledge of Algorithms, Git, AWS, APIs, DBs (MySQL, MongoDB & PostgreSQL).
+- I am a professional Software Engineer with over 4 years of experience in Software, Product and Website Development with JavaScript, Node.js, GraphQL, TypeScript, PHP, Laravel, Linux, and Docker. I have knowledge of Algorithms, Git, AWS, APIs, DBs (MySQL, MongoDB & PostgreSQL).
 
 - I am also an Innovative and award-winning Community Management Professional with multiple skills and experience across customer and technical support, program management and communications (writing, speaking, presentation).
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=justcabyr)
 
-### I am a Professional Software Engineer
+<!-- ### I am a Professional Software Engineer
 
 - 🔭 I currently work as a Technical Support Engineer at [OPay](https://opayweb.com/)
 - 👷🏾‍♀️ I am also a Community Growth Associate at [Consonance Club](http://consonance.club/)
@@ -32,8 +32,7 @@ Here are some ideas to get you started:
 ### Previous Experiences
 - Software Engineer at [Cyberfleet Integrated Limited](https://cyberfleetng.com/)
 - Community Manager at [TechQuest STEM Academy](https://tqstem.org/)
-- Director Web Services at [Dervac Technologies](http://dervac.com/)
-
+- Director Web Services at [Dervac Technologies](http://dervac.com/) -->
 
 ### Connect with me:
 
