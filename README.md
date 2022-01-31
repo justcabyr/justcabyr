@@ -40,8 +40,3 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/justcabyr" target="
 _blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" /></a><a href="https://github.com/justcabyr" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?&style=flat-square&logo=github&logoColor=white" /><a href="https://www.linkedin.com/in/justcabyr/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-
- <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=justcabyr&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=justcabyr&theme=tokyonight">
-</p>
