@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I am a professional Software Engineer with over 4 years of experience in Software, Product and Website Development with JavaScript, Node.js, GraphQL, TypeScript, PHP, Laravel, Linux, and Docker. I have knowledge of Algorithms, Git, AWS, APIs, DBs (MySQL, MongoDB & PostgreSQL).
+- I am a professional Software Engineer with over 4 years of experience in Software, Product and Website Development with JavaScript, TypeScript, Node.js, GraphQL, PHP, Laravel, Linux, and Docker. I have knowledge of Algorithms, Git, AWS, APIs, DBs (MySQL, MongoDB & PostgreSQL).
 
 - I am also an Innovative and award-winning Community Management Professional with multiple skills and experience across customer and technical support, program management and communications (writing, speaking, presentation).
 
@@ -42,6 +42,6 @@ _blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?log
 </a>
 
  <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Babatunde13&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Babatunde13&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=justcabyr&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=justcabyr&theme=tokyonight">
 </p>
