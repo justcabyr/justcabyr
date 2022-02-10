@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--Software Engineer with over 4 years of experience with TypeScript, Node.js, JavaScript, GraphQL, Laravel, Docker and Firebase. I have knowledge of Algorithms, Git, AWS, APIs, Linux, DBs (relational and non-relational).
+- Software Engineer with over 4 years of experience with TypeScript, Node.js, JavaScript, GraphQL, Laravel, Docker and Firebase. I have knowledge of Algorithms, Git, AWS, APIs, Linux, DBs (relational and non-relational).
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/justcabyr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjustcabyr&screen_name=justcabyr)
@@ -36,5 +36,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://twitter.com/justcabyr" target="
-_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" /></a><a href="https://github.com/justcabyr" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?&style=flat-square&logo=github&logoColor=white" /><a href="https://www.linkedin.com/in/justcabyr/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-square&logo=linkedin&logoColor=white" />
+_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" /></a> | <a href="https://github.com/justcabyr" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?&style=flat-square&logo=github&logoColor=white" /> | <a href="https://www.linkedin.com/in/justcabyr/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-square&logo=linkedin&logoColor=white" />
 </a>
+
+- Sharing with you one of my favourite quotes. "Everything you want is a dream away".
