@@ -14,18 +14,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I am a professional Software Engineer with over 4 years of experience in Software, Product and Website Development with JavaScript, TypeScript, Node.js, GraphQL, PHP, Laravel, Linux, and Docker. I have knowledge of Algorithms, Git, AWS, APIs, DBs (MySQL, MongoDB & PostgreSQL).
-
-- I am also an Innovative and award-winning Community Management Professional with multiple skills and experience across customer and technical support, program management and communications (writing, speaking, presentation).
+-Software Engineer with over 4 years of experience with TypeScript, Node.js, JavaScript, GraphQL, Laravel, Docker and Firebase. I have knowledge of Algorithms, Git, AWS, APIs, Linux, DBs (relational and non-relational).
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/justcabyr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjustcabyr&screen_name=justcabyr)
 
-![](https://komarev.com/ghpvc/?username=justcabyr)
+<!-- ![](https://komarev.com/ghpvc/?username=justcabyr) -->
 
 <!-- ### I am a Professional Software Engineer
 
-- 🔭 I currently work as a Technical Support Engineer at [OPay](https://opayweb.com/)
+- 🔭 I currently work as a at [OPay](https://.com/)
 - 👷🏾‍♀️ I am also a Community Growth Associate at [Consonance Club](http://consonance.club/)
 
 
