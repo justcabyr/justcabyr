@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 
 <!-- ### I am a Professional Software Engineer
 
-- 🔭 I currently work as a at [OPay](https://.com/)
-- 👷🏾‍♀️ I am also a Community Growth Associate at [Consonance Club](http://consonance.club/)
+- 🔭 I currently work as at [Montech Software Studions](https://www.montech.io/)
+- 👷🏾‍♀️ I volunter as the Community Growth Associate at [Consonance Club](http://consonance.club/)
 
 
 ### Previous Experiences
-- Software Engineer at [Cyberfleet Integrated Limited](https://cyberfleetng.com/)
+- Backend Engineer at [Cyberfleet Integrated Limited](https://cyberfleetng.com/)
 - Community Manager at [TechQuest STEM Academy](https://tqstem.org/)
-- Director Web Services at [Dervac Technologies](http://dervac.com/) -->
+- Software Engineer at [Dervac Technologies](http://dervac.com/) -->
 
 ### Connect with me:
 
