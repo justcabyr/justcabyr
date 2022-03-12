@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Software Engineer with over 4 years of experience with TypeScript, Node.js, JavaScript, GraphQL, Laravel, Docker and Firebase. I have knowledge of Algorithms, Git, AWS, APIs, Linux, DBs (relational and non-relational).
+- Software Engineer with over 4 years of experience with TypeScript, Node.js, Web3.js, GraphQL, Laravel, Docker and Firebase. I have knowledge of Algorithms, Git, AWS, APIs, Linux, DBs (relational and non-relational).
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/justcabyr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjustcabyr&screen_name=justcabyr) -->
 
