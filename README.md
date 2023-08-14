@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 
- <a href="https://github.com/justcabyr" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?&style=flat-square&logo=github&logoColor=white" />   <a href="https://www.linkedin.com/in/justcabyr/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-square&logo=linkedin&logoColor=white" />
+ <a href="https://www.linkedin.com/in/justcabyr/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
 - Sharing with you one of my favourite quotes. "Everything you want is a dream away".
