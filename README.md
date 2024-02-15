@@ -1,8 +1,6 @@
 ### Hi there, I'm AbdulKabir Sulaiman👋
 
 <!--
-**JustCabyr/justcabyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,7 +12,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Software Engineer with over 4 years of experience with TypeScript, Node.js, Web3.js, GraphQL, Laravel, Docker and Firebase. I have knowledge of Algorithms, Git, AWS, APIs, Linux, DBs (relational and non-relational).
+- Backend Engineer. 
+
+<!-- with over 4 years of experience with TypeScript, Node.js, Web3.js, GraphQL, Laravel, Docker and Firebase. I have knowledge of Algorithms, Git, AWS, APIs, Linux, DBs (relational and non-relational). -->
 
 <!-- ![](https://komarev.com/ghpvc/?username=justcabyr) -->
 
@@ -23,11 +23,7 @@ Here are some ideas to get you started:
 - 🔭 I currently work as at [Montech Software Studions](https://www.montech.io/)
 - 👷🏾‍♀️ I volunter as the Community Growth Associate at [Consonance Club](http://consonance.club/)
 
-
-### Previous Experiences
-- Backend Engineer at [Cyberfleet Integrated Limited](https://cyberfleetng.com/)
-- Community Manager at [TechQuest STEM Academy](https://tqstem.org/)
-- Software Engineer at [Dervac Technologies](http://dervac.com/) -->
+-->
 
 ### Connect with me:
 
