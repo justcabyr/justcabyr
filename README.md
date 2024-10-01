@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Backend Engineer. 
+- Software Engineer. 
 
 <!-- with over 4 years of experience with TypeScript, Node.js, Web3.js, GraphQL, Laravel, Docker and Firebase. I have knowledge of Algorithms, Git, AWS, APIs, Linux, DBs (relational and non-relational). -->
 
@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 - 🔭 I currently work as at [Montech Software Studions](https://www.montech.io/)
 - 👷🏾‍♀️ I volunter as the Community Growth Associate at [Consonance Club](http://consonance.club/)
 
--->
+
 
 ### Connect with me:
 
 
  <a href="https://www.linkedin.com/in/justcabyr/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-
+-->
 - Sharing with you one of my favourite quotes. "Everything you want is a dream away".
