@@ -30,3 +30,11 @@ Here are some ideas to get you started:
 ### Connect with me:
  <a href="https://www.linkedin.com/in/justcabyr/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-square&logo=linkedin&logoColor=white" />
 </a>
+
+ <hr/>
+
+ ### Technologies
+- LANGUAGES: TypeScript, Node.js, React.js, Nest.js, Next.js, GraphQL, Python.
+- DATABASES: MongoDB, MySQL, PostgreSQL, Firebase, DynamoDB.
+- TOOLS: Git, AWS, Linux, Docker, GCP, Jenkins
+- DEVELOPMENT OPERATIONS: Documentation, Testing, Deployment.
