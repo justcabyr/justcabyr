@@ -34,7 +34,7 @@ Here are some ideas to get you started:
  <hr/>
 
  ### Technologies
-- LANGUAGES: TypeScript, Node.js, React.js, Nest.js, Next.js, GraphQL, Python.
+- LANGUAGES: TypeScript, Node.js, Laravel, React.js, Nest.js, Next.js, GraphQL, Python.
 - DATABASES: MongoDB, MySQL, PostgreSQL, Firebase, DynamoDB.
 - TOOLS: Git, AWS, Linux, Docker, GCP, Jenkins
 - DEVELOPMENT OPERATIONS: Documentation, Testing, Deployment.
