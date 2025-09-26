@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Backend Software Engineer. 
+#### Software Engineer. 
 <!-- - 💻 Building [MyGPT](https://github.com/justcabyr/my-gpt). -->
-- 👷🏾‍♀️ You'll find me volunteering with [GDG St. John's](https://gdg.community.dev/gdg-st-johns/), [CTS-NL](https://ctsnl.ca/), or any other tech community.
+- 👷🏾‍♀️ When I'm not coding, you'll find me volunteering with [GDG St. John's](https://gdg.community.dev/gdg-st-johns/), [CTS-NL](https://ctsnl.ca/), or any other tech community.
 - ⚡ Sharing with you my brother's favourite quote. "Everything you want is a dream away".
 
 ### Connect with me:
