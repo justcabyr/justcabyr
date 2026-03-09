@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 #### Software Engineer. 
 <!-- - 💻 Building [MyGPT](https://github.com/justcabyr/my-gpt). -->
-- 👷🏾‍♀️ When I'm not coding, you'll find me volunteering with [GDG St. John's](https://gdg.community.dev/gdg-st-johns/), [CTS-NL](https://ctsnl.ca/), or any other tech community.
+- 👷🏾‍♀️ When I'm not coding, you'll find me volunteering with [GDG St. John's](https://gdg.community.dev/gdg-st-johns/), [TechNest Community](https://www.linkedin.com/company/technestcommunity/), [CTS-NL](https://ctsnl.ca/), or any other local tech community.
 - ⚡ Sharing with you my brother's favourite quote. "Everything you want is a dream away".
 
 ### Connect with me:
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  <hr/>
 
  ### Technologies
-- LANGUAGES: Java, JavaScript, TypeScript, Laravel, Go, Python.
+- LANGUAGES: Java, JavaScript, TypeScript, Laravel, React Native, Go, Python.
 - DATABASES: MongoDB, MySQL, PostgreSQL, Firebase.
 - TOOLS: Git, AWS, Linux, Docker, GCP, Jenkins
 - DEVELOPMENT OPERATIONS: Documentation, Testing, Deployment.
